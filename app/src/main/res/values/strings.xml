@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marvel App</string>
+
+    <string name="title_characters">Personajes</string>
+    <string name="title_events">Eventos</string>
+
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+</resources>
